@@ -12,7 +12,7 @@
 <h2 align="center">💻 Udemy</h2>
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
 <div align="center">
-  <img src="./All_Certifications/Udemy/Python sin Fronteras.jpg" width="65%">
+  <img src="./All_Certifications/Udemy/Python sin Fronteras.jpg" width="80%">
 </div>
 
 <br clear="both">
